@@ -1,3 +1,7 @@
 this is for testing the project
+<<<<<<< HEAD
 
 third line added
+=======
+pulling from remote for checking
+>>>>>>> 4ecd3749600d642e94c3cdf6bc6b43146600861a
